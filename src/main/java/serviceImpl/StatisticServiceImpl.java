@@ -1,18 +1,22 @@
 package serviceImpl;
 
+import java.util.ArrayList;
+import java.util.Iterator;
+import java.util.List;
+import java.util.Map;
+
 import com.opensymphony.xwork2.ActionContext;
-import dao.*;
+import dao.AnswerDetailDao;
+import dao.AnswerSheetHeadInfoDao;
+import dao.OptionDetailDao;
+import dao.QuestionDetailDao;
+import dao.QuestionnaireHeadInfoDao;
 import entity.OptionDetail;
 import entity.QuestionDetail;
 import entityStruct.Option;
 import entityStruct.Question;
 import org.springframework.beans.factory.annotation.Autowired;
 import service.StatisticService;
-
-import java.util.ArrayList;
-import java.util.Iterator;
-import java.util.List;
-import java.util.Map;
 
 public class StatisticServiceImpl implements StatisticService {
 

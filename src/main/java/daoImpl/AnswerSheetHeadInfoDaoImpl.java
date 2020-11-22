@@ -11,9 +11,9 @@ import dao.AnswerSheetHeadInfoDao;
 import entity.AnswerSheetHeadInfo;
 
 public class AnswerSheetHeadInfoDaoImpl implements AnswerSheetHeadInfoDao{
-
+	
 	SessionFactory sessionFactory;
-
+	
 	public SessionFactory getSessionFactory() {
 		return sessionFactory;
 	}
@@ -21,7 +21,7 @@ public class AnswerSheetHeadInfoDaoImpl implements AnswerSheetHeadInfoDao{
 	public void setSessionFactory(SessionFactory sessionFactory) {
 		this.sessionFactory = sessionFactory;
 	}
-
+	
 	public List get_Max_AnswerSheetId(){
 		Session session = sessionFactory.openSession();
 		Transaction ts = session.beginTransaction();
@@ -36,10 +36,11 @@ public class AnswerSheetHeadInfoDaoImpl implements AnswerSheetHeadInfoDao{
 		session.close();
 		return list;
 	}
-	public void insert_New_AnswerSheet(String answerSheetId, String questionnaireId){
+	public void insert_New_AnswerSheet(String answerSheetId, int questionnaireId){
 		AnswerSheetHeadInfo answerSheetHeadInfo = new AnswerSheetHeadInfo();
 		answerSheetHeadInfo.setAnswerSheetId(answerSheetId);
 		answerSheetHeadInfo.setQuestionnaireId(questionnaireId);
+		answerSheetHeadInfo.setUserId(userId);
 		Session session = sessionFactory.openSession();
 		Transaction ts = session.beginTransaction();
 		try {
@@ -50,7 +51,7 @@ public class AnswerSheetHeadInfoDaoImpl implements AnswerSheetHeadInfoDao{
 		ts.commit();
 		session.close();
 	}
-
+	
 	public void delete_AnswerSheet_By_QId(String questionnaireId){
 		AnswerSheetHeadInfo answerSheetHeadInfo = new AnswerSheetHeadInfo();
 		answerSheetHeadInfo.setQuestionnaireId(questionnaireId);
@@ -64,7 +65,7 @@ public class AnswerSheetHeadInfoDaoImpl implements AnswerSheetHeadInfoDao{
 		ts.commit();
 		session.close();
 	}
-
+	
 	public List get_AnswerSheetHeadInfo_By_QId(String questionnaireId){
 		Session session = sessionFactory.openSession();
 		Transaction ts = session.beginTransaction();
@@ -79,5 +80,5 @@ public class AnswerSheetHeadInfoDaoImpl implements AnswerSheetHeadInfoDao{
 		session.close();
 		return list;
 	}
-
+	
 }

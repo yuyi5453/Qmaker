@@ -42,7 +42,7 @@ public class QuestionnaireManagementServiceImpl implements QuestionnaireManageme
 
 			Question question = new Question();//实例化QUestion
 			//对question进行赋值操作
-			question.setQuestionnaireId(Integer.valueOf(questionnaireId));//问卷ID
+			question.setQuestionnaireId(questionnaireId);//问卷ID
 			question.setQuestionNo(questionNo);//问题编号
 			question.setQuestionContent(questionDetail.getQuestionContent().trim());//问题内容
 			question.setQuestionType(questionDetail.getQuestionType().trim());//问题类型
@@ -53,7 +53,7 @@ public class QuestionnaireManagementServiceImpl implements QuestionnaireManageme
 			while(optionIterator.hasNext()){
 				OptionDetail optionDetail = optionIterator.next();
 				Option option = new Option();//实例化Option
-				option.setQuestionnaireId(Integer.valueOf(questionnaireId));
+				option.setQuestionnaireId(questionnaireId);
 				option.setQuestionNo(questionNo);
 				option.setOptionNo(optionDetail.getId().getOptionNo());
 				option.setOptionContent(optionDetail.getOptionContent());

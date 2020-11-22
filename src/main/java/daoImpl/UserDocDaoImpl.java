@@ -21,7 +21,7 @@ public class UserDocDaoImpl implements UserDocDao{
 	}
 	
 	
-	public void Insert_New_User(String UserID, String Password){
+	public void insert_New_User(String UserID, String Password){
 		Session session = sessionFactory.openSession();
 		Transaction ts = session.beginTransaction();
 		UserDoc user = new UserDoc();
@@ -38,7 +38,7 @@ public class UserDocDaoImpl implements UserDocDao{
 		System.out.println("close session");
 	}
 	
-	public List Select_User(String UserID){
+	public List select_User(String UserID){
 		Session session = sessionFactory.openSession();
 		Transaction ts = session.beginTransaction();
 		List list = null;
