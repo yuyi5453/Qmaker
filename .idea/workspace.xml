@@ -19,52 +19,69 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a31b09a-eea1-41dc-8e9d-3bf125fa0751" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../BaiduNetdiskDownload/源代码/scrapyProject/todayMoive/.idea/todayMoive.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../DQN/.idea/DQN.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JUC/JUC.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JUC/src/main/java/JedisTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyConmunition/MyConmunition.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Mybatis-study/Mybatis-study.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Mybatis-study/mybatis-01/mybatis-01.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Mybatis/Mybatis.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QMark.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/service/QuestionnaireManagementService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../QMark2/QMark2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WebConmunnication/WebConmunnication.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../seckill-master/seckill.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-study/spring-study.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springMVC-study/springMVC-study.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springMVC-study/springmvc-01-servlet/springmvc-01-servlet.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springMVC-study/springmvc-02-hellomvc/springmvc-02-hellomvc.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springMVC-study/springmvc-03-annotation/springmvc-03-annotation.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springMVC-study/springmvc-04-controller/springmvc-04-controller.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springMVC-study/springmvc-05-json/springmvc-05-json.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springMVC-study/springmvc-06-ajax/springmvc-06-ajax.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springboot-02-config/springboot-02-config.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springboot-03-web/springboot-03-web.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springboot-04/springboot-04.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springboot-05-mybatis/springboot-05-mybatis.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springboot-redis/springboot-redis.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springboot-study/springboot-study.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ssmbuild/ssmbuild.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../PYproject/.idea/PYproject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../PYproject/test/.idea/test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../PYproject/test2/.idea/test2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../VisualStudio/MSBuild/Microsoft/VisualStudio/NodeJs/node_modules/npm/node_modules/clone/clone.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../en for Android/Cline pj/.idea/Cline pj.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../labprep/.idea/labprep.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../labprep/labprep.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../rl/.idea/rl.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../rl/maze_env.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tk/.idea/tk.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tk/turn.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../weather/.idea/weather.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../001/.idea/001.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AndroidPj/ActivityTest/app/src/main/java/com/example/activitytest/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AndroidPj/ActivityTest/app/src/main/res/layout/layout_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AndroidPj/ActivityTest/app/src/main/res/menu/main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AndroidPj/SecondhandApp/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AndroidPj/SecondhandApp/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AndroidPj/SecondhandApp/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AndroidPj/SecondhandApp/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AndroidPj/SecondhandApp/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AndroidPj/SecondhandApp/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AndroidPj/SecondhandApp/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AndroidPj/SecondhandApp/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AndroidPj/SecondhandApp/app/src/androidTest/java/com/example/secondhandapp/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AndroidPj/SecondhandApp/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AndroidPj/SecondhandApp/app/src/main/java/com/example/secondhandapp/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AndroidPj/SecondhandApp/app/src/main/java/com/example/secondhandapp/ui/dashboard/DashboardFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AndroidPj/SecondhandApp/app/src/main/java/com/example/secondhandapp/ui/dashboard/DashboardViewModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AndroidPj/SecondhandApp/app/src/main/java/com/example/secondhandapp/ui/home/HomeFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AndroidPj/SecondhandApp/app/src/main/java/com/example/secondhandapp/ui/home/HomeViewModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AndroidPj/SecondhandApp/app/src/main/java/com/example/secondhandapp/ui/notifications/NotificationsFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AndroidPj/SecondhandApp/app/src/main/java/com/example/secondhandapp/ui/notifications/NotificationsViewModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AndroidPj/SecondhandApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AndroidPj/SecondhandApp/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AndroidPj/SecondhandApp/app/src/main/res/drawable/ic_home_black_24dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AndroidPj/SecondhandApp/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AndroidPj/SecondhandApp/app/src/main/res/drawable/ic_notifications_black_24dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AndroidPj/SecondhandApp/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AndroidPj/SecondhandApp/app/src/main/res/layout/fragment_dashboard.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AndroidPj/SecondhandApp/app/src/main/res/layout/fragment_home.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AndroidPj/SecondhandApp/app/src/main/res/layout/fragment_notifications.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AndroidPj/SecondhandApp/app/src/main/res/menu/bottom_nav_menu.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AndroidPj/SecondhandApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AndroidPj/SecondhandApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AndroidPj/SecondhandApp/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AndroidPj/SecondhandApp/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AndroidPj/SecondhandApp/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AndroidPj/SecondhandApp/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AndroidPj/SecondhandApp/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AndroidPj/SecondhandApp/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AndroidPj/SecondhandApp/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AndroidPj/SecondhandApp/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AndroidPj/SecondhandApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AndroidPj/SecondhandApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AndroidPj/SecondhandApp/app/src/main/res/navigation/mobile_navigation.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AndroidPj/SecondhandApp/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AndroidPj/SecondhandApp/app/src/main/res/values/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AndroidPj/SecondhandApp/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AndroidPj/SecondhandApp/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AndroidPj/SecondhandApp/app/src/test/java/com/example/secondhandapp/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AndroidPj/SecondhandApp/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AndroidPj/SecondhandApp/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AndroidPj/SecondhandApp/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AndroidPj/SecondhandApp/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AndroidPj/SecondhandApp/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AndroidPj/SecondhandApp/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AndroidPj/SecondhandApp/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JUC/src/main/java/JedisTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JUC/src/main/java/JedisTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ssmbuild/ssmbuild.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../ssmbuild/ssmbuild.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../getProxy/.idea/getProxy.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../labprep/labprep.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../labprep/labprep.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rl/maze_env.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../rl/maze_env.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tk/turn.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../tk/turn.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,6 +147,19 @@
     </key>
   </component>
   <component name="RunManager" selected="Tomcat Server.Tomcat 9">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Test01.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="QMark" />
       <option name="PACKAGE_NAME" value="" />
@@ -245,7 +275,7 @@
       <workItem from="1605840696429" duration="6109000" />
       <workItem from="1605852940632" duration="2068000" />
       <workItem from="1605939168552" duration="20786000" />
-      <workItem from="1606009778914" duration="523000" />
+      <workItem from="1606009778914" duration="896000" />
     </task>
     <servers />
   </component>
