@@ -77,7 +77,7 @@ public class QuestionnaireHeadInfoDaoImpl implements QuestionnaireHeadInfoDao{
 		return list;
 	}
 	
-	public void delete_Questionnaire_By_QId(QuestionnaireHeadInfo quesitonnaireHeadInfo){
+	public void delete_QuestionnaireHeadInfo(QuestionnaireHeadInfo questionnaireHeadInfo){
 		Session session = sessionFactory.openSession();
 		Transaction ts = session.beginTransaction();
 		session.delete(questionnaireHeadInfo);
@@ -100,7 +100,7 @@ public class QuestionnaireHeadInfoDaoImpl implements QuestionnaireHeadInfoDao{
 		Transaction ts = session.beginTransaction();
 		try{
 			QuestionnaireHeadInfo questionnaireHeadInfo= (QuestionnaireHeadInfo) session.load(QuestionnaireHeadInfo.class, questionnaireId);
-			questionnaireHeadInfo.setPublished(status);
+			questionnaireHeadInfo.setStatus(status);
 			session.update(questionnaireHeadInfo);
 		}catch(Exception e){
 			e.printStackTrace();

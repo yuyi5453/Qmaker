@@ -2,6 +2,7 @@ package daoImpl;
 
 import java.util.List;
 
+import entity.AnswerSheetHeadInfoId;
 import org.hibernate.Query;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
@@ -36,11 +37,12 @@ public class AnswerSheetHeadInfoDaoImpl implements AnswerSheetHeadInfoDao{
 		session.close();
 		return list;
 	}
-	public void insert_New_AnswerSheet(String answerSheetId, int questionnaireId){
+	public void insert_New_AnswerSheet(String answerSheetId, String questionnaireId){
 		AnswerSheetHeadInfo answerSheetHeadInfo = new AnswerSheetHeadInfo();
-		answerSheetHeadInfo.setAnswerSheetId(answerSheetId);
-		answerSheetHeadInfo.setQuestionnaireId(questionnaireId);
-		answerSheetHeadInfo.setUserId(userId);
+		AnswerSheetHeadInfoId answerSheetHeadInfoId = new AnswerSheetHeadInfoId();
+		answerSheetHeadInfoId.setAnswerSheetId(answerSheetId);
+		answerSheetHeadInfoId.setQuestionnaireId(questionnaireId);
+		answerSheetHeadInfo.setId(answerSheetHeadInfoId);
 		Session session = sessionFactory.openSession();
 		Transaction ts = session.beginTransaction();
 		try {
@@ -54,7 +56,9 @@ public class AnswerSheetHeadInfoDaoImpl implements AnswerSheetHeadInfoDao{
 	
 	public void delete_AnswerSheet_By_QId(String questionnaireId){
 		AnswerSheetHeadInfo answerSheetHeadInfo = new AnswerSheetHeadInfo();
-		answerSheetHeadInfo.setQuestionnaireId(questionnaireId);
+		AnswerSheetHeadInfoId answerSheetHeadInfoId = new AnswerSheetHeadInfoId();
+		answerSheetHeadInfoId.setQuestionnaireId(questionnaireId);
+		answerSheetHeadInfo.setId(answerSheetHeadInfoId);
 		Session session = sessionFactory.openSession();
 		Transaction ts = session.beginTransaction();
 		try {
