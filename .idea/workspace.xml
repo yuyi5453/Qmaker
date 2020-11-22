@@ -139,6 +139,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -174,6 +175,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -310,6 +312,7 @@
         <item itemvalue="JUnit.Test01.test" />
         <item itemvalue="JUnit.Test01.test2" />
         <item itemvalue="JUnit.Test01.test" />
+        <item itemvalue="JUnit.Test01.test2" />
       </list>
     </recent_temporary>
   </component>
@@ -329,7 +332,7 @@
       <workItem from="1605840696429" duration="6109000" />
       <workItem from="1605852940632" duration="2068000" />
       <workItem from="1605939168552" duration="20786000" />
-      <workItem from="1606009778914" duration="5106000" />
+      <workItem from="1606009778914" duration="6028000" />
     </task>
     <servers />
   </component>
