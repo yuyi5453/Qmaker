@@ -76,7 +76,18 @@
       <change beforePath="$PROJECT_DIR$/../../AndroidPj/SecondhandApp/gradlew.bat" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../AndroidPj/SecondhandApp/settings.gradle" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../JUC/src/main/java/JedisTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JUC/src/main/java/JedisTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/action/AdminRegisterAction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/action/CreateNewPaperAction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/action/CreateNewQuestionnaireAction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/action/LoginAction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/action/PersonalIndexAction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/action/SearchUserAction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/action/SubmitAnswerSheetAction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/action/UpdatePaperAction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/action/UpdateQuestionnaireAction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/action/UserRegisterAction.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/dao/AnswerDetailDao.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/dao/AnswerSheetHeadInfoDao.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/dao/OptionDetailDao.java" beforeDir="false" />
@@ -110,6 +121,9 @@
       <change beforePath="$PROJECT_DIR$/src/main/java/serviceImpl/QuestionnaireManagementServiceImpl.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/serviceImpl/StatisticServiceImpl.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/serviceImpl/UserServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-form.tld" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring.tld" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../ssmbuild/ssmbuild.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../ssmbuild/ssmbuild.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../getProxy/.idea/getProxy.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../labprep/labprep.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../labprep/labprep.py" afterDir="false" />
@@ -129,6 +143,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/../../" value="NoAction" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../" />
   </component>
   <component name="LogFilters">
@@ -162,7 +181,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.39195403" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -173,10 +192,10 @@
       <recent name="E:\IDEAFolder\QMark\src\main\java\service" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\IDEAFolder\QMark\src\main\webapp\jsp" />
       <recent name="E:\IDEAFolder\QMark\src\main\webapp\WEB-INF" />
       <recent name="E:\IDEAFolder\QMark\src\main\webapp" />
       <recent name="E:\IDEAFolder\QMark\src\main\resources" />
-      <recent name="E:\IDEAFolder\QMark\src\main\webapp\jsp" />
     </key>
   </component>
   <component name="RunManager" selected="Tomcat Server.Tomcat 9">
@@ -289,6 +308,8 @@
       <list>
         <item itemvalue="JUnit.Test01.test2" />
         <item itemvalue="JUnit.Test01.test" />
+        <item itemvalue="JUnit.Test01.test2" />
+        <item itemvalue="JUnit.Test01.test" />
       </list>
     </recent_temporary>
   </component>
@@ -308,7 +329,7 @@
       <workItem from="1605840696429" duration="6109000" />
       <workItem from="1605852940632" duration="2068000" />
       <workItem from="1605939168552" duration="20786000" />
-      <workItem from="1606009778914" duration="2572000" />
+      <workItem from="1606009778914" duration="5106000" />
     </task>
     <servers />
   </component>
@@ -344,6 +365,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="490" y="69" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable/0.0.1536.824@0.0.1536.824" timestamp="1605595939090" />
+    <state x="417" y="244" key="FileChooserDialogImpl" timestamp="1606014208822">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="417" y="244" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1606014208822" />
     <state width="1493" height="260" key="GridCell.Tab.0.bottom" timestamp="1605846901836">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -428,10 +453,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="299" y="67" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1605841127719" />
-    <state x="249" y="0" key="SettingsEditor" timestamp="1605612276245">
+    <state x="97" y="71" key="SettingsEditor" timestamp="1606014230909">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1605612276245" />
+    <state x="97" y="71" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1606014230909" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1606013876727">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1606013876727" />
     <state x="-48" y="162" width="672" height="678" key="search.everywhere.popup" timestamp="1605943509014">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
