@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/action/CreateNewPaperAction.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/action/CreateNewQuestionnaireAction.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/dao/AnswerDetailDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/dao/AnswerSheetHeadInfoDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/dao/OptionDetailDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/dao/QuestionDetailDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/dao/QuestionnaireHeadInfoDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/dao/UserDocDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/daoImpl/AnswerDetailDaoImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/daoImpl/AnswerSheetHeadInfoDaoImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/daoImpl/OptionDetailDaoImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/daoImpl/QuestionDetailDaoImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/daoImpl/QuestionnaireHeadInfoDaoImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/daoImpl/UserDocDaoImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/entity/AnswerDetail.hbm.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/entity/AnswerDetail.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/entity/AnswerDetailId.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/entity/AnswerSheetHeadInfo.hbm.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/entity/AnswerSheetHeadInfo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/entity/AnswerSheetHeadInfoId.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/entity/OptionDetail.hbm.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/entity/OptionDetail.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/entity/OptionDetailId.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/entity/QuestionDetail.hbm.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/entity/QuestionDetail.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/entity/QuestionDetailId.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/entity/QuestionnaireHeadInfo.hbm.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/entity/QuestionnaireHeadInfo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/entity/UserDoc.hbm.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/entity/UserDoc.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/service/AnswerService.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/service/PersonalIndexService.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/service/QuestionnaireManagementService.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/service/StatisticService.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/service/UserService.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/serviceImpl/AnswerDetailServiceImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/serviceImpl/AnswerServiceImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/serviceImpl/AnswerSheetHeadInfoServiceImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/serviceImpl/OptionDetailServiceImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/serviceImpl/PersonalIndexService.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/serviceImpl/PersonalIndexServiceImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/serviceImpl/QuesHeadInfoServiceImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/serviceImpl/QuestionnaireDetailServiceImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/serviceImpl/QuestionnaireManagementServiceImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/serviceImpl/StatisticServiceImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/serviceImpl/UserServiceImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
